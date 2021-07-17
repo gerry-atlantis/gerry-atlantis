@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gerry-atlantis
+- 👀 I’m interested in Terraform Atlantis
+- 🌱 I’m currently learning Terraform Atlantis
+- 💞️ I’m looking to collaborate on Terraform Atlantis & Pulumi & Ruby & Kubernetes & Typescript & Linux & GCP & AWS & did I mention Pulumi?
+- 📫 You can reach me by creating a pull request
